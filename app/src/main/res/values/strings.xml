@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vibie</string>
+    <string name="playlists">Playlists</string>
+    <string name="favourites">Favourites</string>
+</resources>
